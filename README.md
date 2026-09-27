@@ -85,6 +85,12 @@ SQL-Sales-Analysis/
 │   └── sales_analysis.sql
 │
 ├── results/
-│   └── analysis_results.csv
+│   ├── total_revenue.csv
+│   ├── average_order_value.csv
+│   ├── top_customers.csv
+│   ├── sales_by_category.csv
+│   ├── sales_by_region.csv
+│   ├── monthly_sales.csv
+│   └── top_products.csv
 │
 └── README.md
